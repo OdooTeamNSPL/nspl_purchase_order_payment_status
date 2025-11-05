@@ -1,6 +1,6 @@
 {
     'name': 'Purchase Order Payment Status',
-    'version': '18.0',
+    'version': '19.0.1',
     'summary': 'Track purchase order payments with status indicators and quick payment insights',
     'description': """
 This module allows you to track and manage purchase order payments efficiently.
